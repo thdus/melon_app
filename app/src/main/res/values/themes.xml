@@ -3,6 +3,8 @@
     <style name="Base.Theme.Melon" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#A9A3A3</item> <!-- 또는 원하는 색상 -->
+
     </style>
 
     <style name="Theme.Melon" parent="Base.Theme.Melon" />
